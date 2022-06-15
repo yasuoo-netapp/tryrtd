@@ -1,2 +1,8 @@
 site_name: Try Read The Docs
-theme: readthedocs
+theme:
+  name: material
+  language: 'ja'
+extras:
+  search:
+    language: 'jp'
+
